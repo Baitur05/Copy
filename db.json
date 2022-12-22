@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "dasf",
+      "price": "fdg",
+      "image": "afsg",
+      "id": 1
+    },
+    {
+      "title": "dasf",
+      "price": "fdg",
+      "image": "afsg",
+      "id": 2
+    },
+    {
+      "title": "dasf",
+      "price": "fdg",
+      "image": "afsg",
+      "id": 3
+    },
+    {
+      "title": "sfdsgf",
+      "price": "fsgdfasfdg",
+      "image": "sfgdfhg",
+      "id": 4
+    }
+  ]
+}
